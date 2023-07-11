@@ -1,2 +1,2 @@
 # LaTeX
-LaTeX Teamplates
+LaTeX Templates
